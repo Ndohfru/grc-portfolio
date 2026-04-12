@@ -9,6 +9,8 @@ This portfolio showcases practical Governance, Risk, and Compliance work samples
 3. Third-Party / Vendor Risk Assessment  
 4. Privacy Compliance Assessment (GDPR / CCPA)  
 5. Audit Evidence Request Matrix
+6. Control Mapping Matrix
+
 
 ## Focus Areas
 
